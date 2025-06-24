@@ -5,7 +5,7 @@
 Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
 
 ---
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Credit Card Page Preview](./images/screenshot.png)
 
@@ -34,6 +34,14 @@ styles/
   - `example.png`: Example or reference image.
   - `screenshot.png`: Preview screenshot of the credit card form.
 - **README.md**: Project description and documentation.
+
+## Features
+
+- ✨ **Real-time Input Formatting**: Card number automatically formats with spaces (XXXX XXXX XXXX XXXX)
+- 📅 **Date Validation**: Expiry date auto-formats to MM/YY pattern
+- 🔒 **CVV Security**: CVV field accepts only 3 digits
+- 📱 **Responsive Design**: Clean and modern UI with proper form validation
+- 🎨 **Visual Design**: Beautiful background images and card preview layout
 
 ## Technologies Used
 
