@@ -6,7 +6,9 @@ Design a credit card checkout form or page. Don't forget the important elements 
 
 ---
 
+## 📸 Screenshot
 
+![Credit Card Page Preview](./images/image.png)
 
 ## Project Structure and File Descriptions
 
