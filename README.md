@@ -35,14 +35,6 @@ styles/
   - `screenshot.png`: Preview screenshot of the credit card form.
 - **README.md**: Project description and documentation.
 
-## Features
-
-- ✨ **Real-time Input Formatting**: Card number automatically formats with spaces (XXXX XXXX XXXX XXXX)
-- 📅 **Date Validation**: Expiry date auto-formats to MM/YY pattern
-- 🔒 **CVV Security**: CVV field accepts only 3 digits
-- 📱 **Responsive Design**: Clean and modern UI with proper form validation
-- 🎨 **Visual Design**: Beautiful background images and card preview layout
-
 ## Technologies Used
 
 - HTML5
